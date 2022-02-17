@@ -1,0 +1,38 @@
+.badge1 {
+    background-color: red;
+    display: inline;
+    color: white;
+    padding: 1%;
+    border-radius: 50%;
+    vertical-align: middle;
+    font-size: large;
+}
+
+.badge2 {
+    background-color: red;
+    display: inline;
+    color: white;
+    padding: 1.5%;
+    border-radius: 50%;
+    font-size: x-large;
+}
+
+.badge3 {
+    background-color: red;
+    display: inline;
+    color: white;
+    padding: 1.5%;
+    border-radius: 50%;
+    font-size: x-large;
+}
+
+.inner-badges-container {
+    margin: 5% 5%;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.badge-container {
+    margin: 6% 6%;
+}
