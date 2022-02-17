@@ -1,0 +1,259 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped:wght@500&family=Rubik&display=swap');
+body {
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    padding: 1.5%;
+    background-color: black;
+    color: white;
+    font-family: cursive;
+    font-size: xx-large;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    position: sticky;
+}
+
+.home-btn:hover {
+    background-color: black;
+    color: white;
+}
+
+.heading-flipper {
+    font-size: xx-large;
+}
+
+.git-link {
+    float: right;
+    font-family: ;
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    font-size: 1.5rem;
+    border: solid white;
+    border-radius: 0.4rem;
+    text-align: center;
+    padding: 0.8vh 0.5vw;
+}
+
+.img {
+    height: 10%;
+    width: 50%;
+}
+
+.container1 {
+    display: flex;
+    justify-content: ;
+}
+
+.text1 {
+    font-size: x-large;
+    padding: 5rem;
+    margin-left: 4rem;
+    display: flex;
+    font-weight: bold;
+}
+
+.text2 {
+    font-size: x-large;
+    padding: 3rem 5rem;
+    margin-left: 4rem;
+    display: flex;
+    font-weight: bold;
+    position: relative;
+    bottom: 10%;
+}
+
+.hamb {
+    background-color: white;
+    height: 30px;
+    position: relative;
+    top: 0.4rem;
+    margin-right: 0.5rem;
+}
+
+.menu {}
+
+.bar {
+    background-color: white;
+    height: 8px;
+    width: 25px;
+    display: block;
+}
+
+.nav {
+    display: none;
+}
+
+.link1 {
+    text-decoration: none;
+    color: white;
+}
+
+.link2 {
+    text-decoration: none;
+    color: black;
+    font-weight: normal;
+}
+
+.btn1 {
+    background-color: black;
+    color: white;
+    padding: 1.5%;
+    font-size: large;
+    border: black;
+    border-radius: 0.4rem;
+    position: relative;
+    left: 9rem;
+    bottom: 3rem;
+}
+
+.btn2 {
+    background-color: transparent;
+    color: black;
+    padding: 1.5%;
+    font-size: large;
+    border: black solid;
+    border-radius: 0.4rem;
+    position: relative;
+    left: 9rem;
+    bottom: 3rem;
+    position: relative;
+    bottom: 10vh;
+}
+
+.container1-grid {
+    display: flex;
+    flex-direction: column;
+    background-color: gray;
+    height: 100vh;
+    width: 10%;
+    align-content: center;
+    padding: 2%;
+    color: white;
+    overflow-y: scroll;
+}
+
+.list-ele {
+    padding: 0.5rem;
+    list-style: none;
+}
+
+.list-comp {
+    padding: 2rem;
+    margin: ;
+}
+
+.body-cont {
+    display: flex;
+}
+
+.component-heading {
+    margin: 5vh 5vw;
+}
+
+.body {
+    display: grid;
+}
+
+.container2-grid {
+    color: black;
+}
+
+.section-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-content: flex-start;
+}
+
+.description {
+    margin-left: 4rem;
+    margin-bottom: 1.9rem;
+}
+
+.component-heading-link {
+    color: black;
+    text-decoration: none;
+}
+
+.component-link {
+    border: black solid;
+    text-decoration: none;
+    margin: 4rem;
+    border-radius: 0.5rem;
+    color: white;
+    background-color: black;
+    padding: 1%;
+}
+
+.line {
+    margin-top: 2rem;
+}
+
+.container3-grid {
+    display: ;
+}
+
+.description {
+    margin: 3rem;
+}
+
+.footer {
+    background-color: black;
+    height: 13.3vh;
+    width: inherit;
+    bottom: 0;
+    position: ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.social-icon {
+    background-color: white;
+}
+
+.inner-container {
+    height: ;
+}
+
+.twitter-social {
+    size: 10%;
+    height: 7vh;
+    margin: 0% 5%;
+}
+
+.fa {
+    font-size: 30px;
+    width: 70px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.fa-twitter {
+    background: transparent;
+    color: white;
+    text-decoration: none;
+    height: 10%;
+    padding: 2%;
+    font-size: 30px;
+    width: 70px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.fa-twitter :hover {}
+
+a {
+    color: white;
+    text-decoration: none;
+}
