@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped:wght@500&family=Rubik&display=swap');
+body {
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.grid1 {
+    height: 100%;
+    width: 100%;
+    background-color: #e2e8f0;
+    overflow-y: ;
+    display: flex;
+    font-size: larger;
+    overflow-y: ;
+}
+
+.header {
+    padding: 1%;
+    position: sticky;
+    background-color: black;
+    color: white;
+    font-family: cursive;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.grid-cont {
+    display: grid;
+    grid-gap: 0;
+    grid-template-columns: 20vw 75vw;
+}
+
+.grid2 {
+    margin: 0;
+}
+
+.list-comp {
+    padding: 6% 13%;
+    margin: 1rem 2rem;
+    color: black;
+}
+
+.list-item {
+    padding: 1.9vw;
+    vertical-align: middle;
+    list-style: none;
+    color: ;
+}
+
+.grid2-heading {
+    margin: 5%;
+}
+
+.code-examp {
+    height: 55vh;
+    width: 60vw;
+}
+
+.comp-section {
+    margin: 3% 3%;
+}
+
+.comp-heading {
+    font-size: x-large;
+}
+
+.description {
+    margin: 5vh;
+    font-size: larger;
+}
+
+.component-link {
+    border: black solid;
+    text-decoration: none;
+    margin: ;
+    border-radius: 0.5rem;
+    color: white;
+    background-color: black;
+    padding: 2vh;
+}
+
+a:hover {
+    color: black;
+    background-color: white;
+}
+
+.link-list {
+    color: black;
+    padding: 10% 5%;
+    margin: 3%;
+}
+
+.link-list:hover {
+    background-color: #ccc;
+}
+
+.link-list:active {
+    background-color: grey;
+}
+
+.container2-grid {
+    margin: 0;
+}
+
+.git-link:hover {
+    cursor: pointer;
+}
